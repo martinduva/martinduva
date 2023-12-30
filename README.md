@@ -3,8 +3,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a Software Engineer with over 2 years of experience building web applications. I'm equipped with a diverse skill set that spans frontend and backend technologies. Adept at collaborating within cross-functional teams to achieve demanding development objectives while producing highly quality code and delivering great user experiences. Continuously adapts to industry changes and leverages a strong problem-solving and analytical driven mindset. Ready to contribute technical expertise and passion for innovation to software engineering projects.
 
-* 🌍  I'm based in Montevideo, Uruguay (GMT-3).
+* 🌍  I'm based in Montevideo, Uruguay (GMT-3).
 * 😄  Pronouns: He/Him.
+* 🚀  I'm currently working on [Aineko](http://aineko.dev).
+* 🧠  I'm learning [Solid.js](https://www.solidjs.com/).
+* 🤝  I'm open to collaborating on anything Javascript.
+* ⚡  I really enjoy discussing about software design and architecture.
 
 ### Skills
 
